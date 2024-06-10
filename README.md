@@ -1,2 +1,0 @@
-# teachhub
-learning

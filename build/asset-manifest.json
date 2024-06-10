@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/teachhub/static/css/main.021ec0e2.css",
+    "main.js": "/teachhub/static/js/main.fcec02e5.js",
+    "static/js/453.840aaa2c.chunk.js": "/teachhub/static/js/453.840aaa2c.chunk.js",
+    "static/media/HomeCrusel.png": "/teachhub/static/media/HomeCrusel.be3665148a20d01f13d4.png",
+    "index.html": "/teachhub/index.html",
+    "main.021ec0e2.css.map": "/teachhub/static/css/main.021ec0e2.css.map",
+    "main.fcec02e5.js.map": "/teachhub/static/js/main.fcec02e5.js.map",
+    "453.840aaa2c.chunk.js.map": "/teachhub/static/js/453.840aaa2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.021ec0e2.css",
+    "static/js/main.fcec02e5.js"
+  ]
+}
